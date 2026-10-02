@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180">
+  <!-- 두 사람이 함께 배우는 삽화 (단색) -->
+  <circle cx="80" cy="50" r="22" fill="#E8A33D"/>
+  <path d="M40 150 q0 -60 40 -60 q40 0 40 60 z" fill="#E8A33D"/>
+  <circle cx="165" cy="60" r="18" fill="#E8A33D" opacity="0.6"/>
+  <path d="M132 150 q0 -50 33 -50 q33 0 33 50 z" fill="#E8A33D" opacity="0.6"/>
+  <rect x="104" y="112" width="28" height="44" rx="5" fill="#ffffff" stroke="#E8A33D" stroke-width="4"/>
+  <line x1="20" y1="156" x2="220" y2="156" stroke="#E8A33D" stroke-width="4" stroke-linecap="round"/>
+</svg>

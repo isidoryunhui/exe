@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 스마트폰 삽화 (단색) -->
+  <rect x="60" y="20" width="80" height="160" rx="12" fill="none" stroke="#E8A33D" stroke-width="6"/>
+  <rect x="72" y="40" width="56" height="110" rx="4" fill="#E8A33D" opacity="0.25"/>
+  <circle cx="100" cy="164" r="6" fill="#E8A33D"/>
+  <path d="M84 80 h32 a6 6 0 0 1 6 6 v14 a6 6 0 0 1 -6 6 h-20 l-10 8 v-8 h-2 a6 6 0 0 1 -6 -6 v-14 a6 6 0 0 1 6 -6 z" fill="#E8A33D"/>
+</svg>
